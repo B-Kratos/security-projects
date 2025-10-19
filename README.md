@@ -1,4 +1,4 @@
-# 🛡️ Cyber Security Mini Projects
+# Cyber Security Mini Projects
 
 This repository contains two beginner-friendly **ethical hacking** and **cybersecurity** projects, built using **C** and **Python**.  
 They demonstrate basic concepts in password security and log analysis.
@@ -27,7 +27,7 @@ Enter your password: 123456
 
 ---
 
-## 🧠 2. SSH Log Analyzer (Python)
+## 2. SSH Log Analyzer (Python)
 
 **Goal:**  
 Analyze authentication logs and find suspicious IPs that had too many failed login attempts.
@@ -50,6 +50,7 @@ python analyzer.py sample_auth.log --threshold 2 --csv report.csv
 ‍💻 Author
 
 Abdel Hadi Boualem
+
 🌐 https://github.com/B-Kratos
 
 ⚠️ Disclaimer
