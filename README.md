@@ -37,7 +37,7 @@ Analyze authentication logs and find suspicious IPs that had too many failed log
 - Outputs the results to `report.csv`.
 
 **Run example:**
-```bash
+
 python analyzer.py sample_auth.log --threshold 2 --csv report.csv
 
 **Result:**
