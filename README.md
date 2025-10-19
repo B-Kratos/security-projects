@@ -17,9 +17,11 @@ Check if a given password exists in a list of breached passwords.
 - Tells the user if it’s safe or has been leaked.
 
 **Example usage:**
+
 Enter your password: 123456
 
 **Result:**
+
 ⚠️ This password has been breached! Choose a stronger one.
 
 
