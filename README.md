@@ -1,7 +1,7 @@
 # 🛡️ Cyber Security Mini Projects
 
 This repository contains two beginner-friendly **ethical hacking** and **cybersecurity** projects, built using **C** and **Python**.  
-They demonstrate basic concepts in password security and log analysis — useful for learning and showing fundamental skills.
+They demonstrate basic concepts in password security and log analysis.
 
 ---
 
@@ -17,7 +17,9 @@ Check if a given password exists in a list of breached passwords.
 - Tells the user if it’s safe or has been leaked.
 
 **Example usage:**
+
 Enter your password: 123456
+
 ⚠️ This password has been breached! Choose a stronger one.
 
 
@@ -38,7 +40,7 @@ Analyze authentication logs and find suspicious IPs that had too many failed log
 ```bash
 python analyzer.py sample_auth.log --threshold 2 --csv report.csv
 
-Result:
+**Result:**
 
 192.168.1.45 - 5 failed attempts
 203.0.113.22 - 3 failed attempts
