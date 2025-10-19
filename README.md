@@ -20,6 +20,8 @@ Check if a given password exists in a list of breached passwords.
 
 Enter your password: 123456
 
+**Result:**
+
 ⚠️ This password has been breached! Choose a stronger one.
 
 
